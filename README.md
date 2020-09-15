@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+My name's Kobi, I enjoy programming and playing computer games.
